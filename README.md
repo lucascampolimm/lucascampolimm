@@ -1,5 +1,7 @@
 ## I'm Lucas.
 
+![](https://komarev.com/ghpvc/?username=your-github-lucascampolimm&color=blue)
+
 Information Systems Student, UNESC Cacoal.
 
 <div>

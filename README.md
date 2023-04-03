@@ -1,6 +1,6 @@
 ## I'm Lucas.
 
-- Atulmente estudando C e C#.
+Acadêmico de Sistemas de Informação, UNESC Cacoal.
 
 <div>
 <a href="https://github.com/lucascampolimm">

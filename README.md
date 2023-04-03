@@ -9,7 +9,7 @@ Olá! Eu sou o Lucas.
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Lucas-C" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Lucas-GCC" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg">
   <img align="center" alt="Lucas-VIM" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
   <img align="center" alt="Lucas-SQLite" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />

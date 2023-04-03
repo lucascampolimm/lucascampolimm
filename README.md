@@ -7,3 +7,7 @@ Olá! Eu sou o Lucas.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampolimm&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascampolimm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>

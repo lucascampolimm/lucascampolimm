@@ -15,3 +15,9 @@ Acadêmico de Sistemas de Informação, UNESC Cacoal.
 <img align="center" alt="Lucas-Linux" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Lucas-VSCode" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
 </div>
+
+ ## 
+  
+<div>  
+<a href="mailto:lucascampolim@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+</div>

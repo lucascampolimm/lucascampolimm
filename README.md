@@ -10,16 +10,9 @@ Olá! Eu sou o Lucas.
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Lucas-GCC" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg">
-  <img align="center" alt="Lucas-VIM" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  <img align="center" alt="Lucas-SQLite" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img align="center" alt="Lucas-Linux" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Lucas-VSCode" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-            
-          
-
-            
-            
-          
-          
+  <img align="center" alt="Lucas-GCC" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg">
+  <img align="center" alt="Lucas-VIM" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+  <img align="center" alt="Lucas-SQLite" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="Lucas-Linux" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Lucas-VSCode" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
   </div>

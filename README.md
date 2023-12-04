@@ -22,7 +22,7 @@ Information Systems Student, UNESC Cacoal.
     <img align="center" alt="GCC" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg">
     <img align="center" alt="VIM" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
     <img align="center" alt="Linux" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="Bash" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+    <img align="center" alt="Bash" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
     <img align="center" alt="VSCode" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 </div>

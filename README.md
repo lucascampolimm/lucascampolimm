@@ -1,6 +1,6 @@
 ## I'm Lucas.
 
-Information Systems Student, UNESC Cacoal.
+Information Systems Student, UNINASSAU Cacoal.
 
 <div>
     <a href="https://github.com/lucascampolimm">
